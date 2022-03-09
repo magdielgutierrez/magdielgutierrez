@@ -1,4 +1,8 @@
-### Hi there 👋
+ 👋 I´m @magdielgutierrez
+ 
+ 🌱 I´m currently starting as a data engineer
+
+
 
 <!--
 **magdielgutierrez/magdielgutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
