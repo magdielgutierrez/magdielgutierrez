@@ -1,7 +1,8 @@
- 👋 I´m @magdielgutierrez
+ 👋 Hi, I´m @magdielgutierrez
  
  🌱 I´m currently starting as a data engineer
 
+ 🔭 I'm looking to learn about data analysis tools for ETL processes
 
 
 <!--
