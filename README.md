@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=magdielgutierrez&show_icons=true&theme=flag-india&count_private=true" />
+</p>
+
+<p align=center >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=magdielgutierrez" />
+</p>
